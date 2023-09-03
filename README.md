@@ -1,15 +1,15 @@
 # 浏览器需要支持 Fetch Webassembly API 
 # 引用 
 # giac.wasm v1.9.0
-[https://www-fourier.ujf-grenoble.fr/~parisse/giac/](https://www-fourier.ujf-grenoble.fr/~parisse/giac/)
+[https://www-fourier.ujf-grenoble.fr/~parisse/giac/](https://www-fourier.ujf-grenoble.fr/~parisse/giac/)   
 [http://www-fourier.ujf-grenoble.fr/~parisse/giac.html](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html)
 # LZMA
 [https://github.com/jcmellado/js-lzma](https://github.com/jcmellado/js-lzma)
 # katex
 [https://github.com/KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
 # 使用方法
-[http://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/casinter/index.html](http://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/casinter/index.html) 
-# 不会使用的可以使用help来查询命令.
+[http://www-fourier.ujf-grenoble.fr/~parisse/giac/algo.html](http://www-fourier.ujf-grenoble.fr/~parisse/giac/algo.html)
+# 使用help可以查询命令.
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 函数  | 作用  | 例子  | 结果  |
